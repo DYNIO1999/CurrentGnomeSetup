@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="displays" version="1.0">
+  <property name="ActiveProfile" type="string" value="Fallback"/>
+  <property name="Default" type="empty">
+    <property name="eDP-1" type="string" value="Laptop">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="72911d0d9bcec76958450e5414421ec608451c42"/>
+      <property name="Resolution" type="string" value="2736x1824"/>
+      <property name="RefreshRate" type="double" value="59.958814"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="4480"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2-1" type="string" value="LG Electronics 34&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="64ca1e0831e45d1e1e5673122a31a3bfdda8d8dc"/>
+      <property name="Resolution" type="string" value="2560x1080"/>
+      <property name="RefreshRate" type="double" value="59.978424"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="22"/>
+      </property>
+    </property>
+    <property name="DP-2-2" type="string" value="Dell Inc. 24&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="1f6587eab6a5e6f57ee22c16dbb7441f6d5c3cb6"/>
+      <property name="Resolution" type="string" value="1600x900"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="2560"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+  <property name="Fallback" type="empty">
+    <property name="eDP-1" type="string" value="Laptop">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="72911d0d9bcec76958450e5414421ec608451c42"/>
+      <property name="Resolution" type="string" value="2736x1824"/>
+      <property name="RefreshRate" type="double" value="59.958814"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="4480"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="DP-2-1" type="string" value="LG Electronics 34&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="64ca1e0831e45d1e1e5673122a31a3bfdda8d8dc"/>
+      <property name="Resolution" type="string" value="2560x1080"/>
+      <property name="RefreshRate" type="double" value="59.978424"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="false"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="22"/>
+      </property>
+    </property>
+    <property name="DP-2-2" type="string" value="Dell Inc. 24&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="1f6587eab6a5e6f57ee22c16dbb7441f6d5c3cb6"/>
+      <property name="Resolution" type="string" value="1600x900"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="2560"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+  </property>
+</channel>
